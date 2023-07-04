@@ -1,0 +1,1 @@
+:root{--main-font: "Poppins", sans-serif;--font-size: 16px;--color-1st: #212529;--color-2nd: #bd1c51;--color-3rd: #424242}html{font-family:var(--main-font);font-size:var(--font-size);scroll-behavior:smooth}body{margin:0;overflow-x:hidden;background-color:#212529;color:#fff}html,body{width:100%;height:100vh}.card-footer{background-color:none;border-top:none}

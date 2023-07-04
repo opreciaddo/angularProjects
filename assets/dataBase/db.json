@@ -1,0 +1,32 @@
+{
+  "apps": [
+    {
+      "id": 1,
+      "name": "Gifs App",
+      "desc": "Search pictures in Giphy",
+      "img": "assets/pictures/gifsApp.png",
+      "url": "/gifs"
+    },
+    {
+      "id": 2,
+      "name": "Countries App",
+      "desc": "Search in different ways a country",
+      "img": "assets/pictures/countriesApp.png",
+      "url": "/countries"
+    },
+    {
+      "id": 3,
+      "name": "Reactive Forms",
+      "desc": "Some forms that can be used in Angular",
+      "img": "assets/pictures/formsApp.png",
+      "url": "/forms"
+    },
+    {
+      "id": 4,
+      "name": "Mapbox App",
+      "desc": "Map using Mapbox App",
+      "img": "assets/pictures/mapboxApp.png",
+      "url": "/mapbox"
+    }
+  ]
+}
